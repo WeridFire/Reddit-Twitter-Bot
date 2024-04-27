@@ -11,7 +11,7 @@ I will include no tutorial on how to use this bot.
 - **ChatGPT Integration**: The bot can respond to comments on Twitter using the ChatGPT unofficial API, providing engaging interactions with users.
 - **Random reaction Posting**: The bot can react with images to any comment.
 - **Completely Undetectable**: Every action (posting, retweeting, commenting ecc...) is randomized between bounds you can select in the "confing.txt" file.
-- **Non stop Worker**: One you start it you don't have to look at it, it auto-detects errors and reacts to it; if anything unexpected happens it stops to not make any damage.
+- **Non stop Worker**: Once you start it you don't have to look at it, it auto-detects errors and reacts to it; if anything unexpected happens it stops to not make any damage.
 
 ## Disclaimer
 
