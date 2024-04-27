@@ -1,0 +1,12 @@
+averageTweetsPerDay: 80
+distraction_averageTweetsPerDay: 25
+postsPercentage: 10
+distraction_postsPercentage: 3
+reTweetPercentage: 10
+distraction_reTweetPercentage: 5
+reTweetLikePercentage: 55
+distraction_reTweetLikePercentage: 15
+commentsPercentage: 80
+distraction_commentsPercentage: 7
+likeHomeTweetPercentage: 25
+distraction_likeHomeTweetPercentage: 5
