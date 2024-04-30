@@ -7,9 +7,9 @@ I will include no tutorial on how to use this bot.
 
 ## Features
 
-- **Reddit Image Posting**: The bot fetches images (and their captions) from specified subreddits at regular intervals and posts them to a Twitter account.
+- **Reddit Image Posting**: The bot fetches images (and their captions) from specified subreddits at randomly chosen intervals and posts them to a Twitter account.
 - **ChatGPT Integration**: The bot can respond to comments on Twitter using the ChatGPT unofficial API, providing engaging interactions with users.
-- **Random reaction Posting**: The bot can react with images to any comment.
+- **Random reaction Posting**: The bot can react with images to any comment with some "reaction" pictures you can choose.
 - **Completely Undetectable**: Every action (posting, retweeting, commenting ecc...) is randomized between bounds you can select in the "confing.txt" file.
 - **Non stop Worker**: Once you start it you don't have to look at it, it auto-detects errors and reacts to it; if anything unexpected happens it stops to not make any damage.
 - **Keeps track of what he posts**: So you can be sure no double posts will appear in your feed.
